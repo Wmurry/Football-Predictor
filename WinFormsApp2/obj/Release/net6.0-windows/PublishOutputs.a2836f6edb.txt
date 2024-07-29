@@ -1,0 +1,11 @@
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\WinFormsApp2.exe
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\WinFormsApp2.dll
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\WinFormsApp2.deps.json
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\WinFormsApp2.runtimeconfig.json
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\WinFormsApp2.pdb
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\William\source\repos\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
